@@ -24,7 +24,17 @@ I enjoy projects where I can be involved on the complete software lifecycle (cod
 
 ## Projects
 
-### Hands-on Architect at Handelsbanken (Aug 2017 - Present)
+## Full-stack developer at Ikea/Ingka (Jan 2020 - Present)
+
+Goal: Build solutions that supports good and fast descisions from fast (streaming) data
+
+- Google Cloud Platform + Terraform
+- Dataflow / Beam 
+- Kotlin
+- React + Typescript
+
+
+### Hands-on Architect at Handelsbanken (Aug 2017 - Jan 2020)
 
 Building a Big Data platform for IT analytics - aka; real-time observability, search & drill-down, reporting, forecasting etc.
 
