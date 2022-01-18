@@ -26,7 +26,7 @@ I enjoy projects where I can be involved on the complete software lifecycle (cod
 
 ## Full-stack developer at Ikea/Ingka (Jan 2020 - Present)
 
-Goal: Build solutions that supports good and fast descisions from fast (streaming) data
+Goal: Build solutions based on high-volume streaming "real-time" data globally
 
 - Google Cloud Platform 
 - Terraform
