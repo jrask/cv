@@ -28,10 +28,13 @@ I enjoy projects where I can be involved on the complete software lifecycle (cod
 
 Goal: Build solutions that supports good and fast descisions from fast (streaming) data
 
-- Google Cloud Platform + Terraform
+- Google Cloud Platform 
+- Terraform
 - Dataflow / Beam 
+- Big Query
 - Kotlin
 - React + Typescript
+- and lots of more GCP candy
 
 
 ### Hands-on Architect at Handelsbanken (Aug 2017 - Jan 2020)
